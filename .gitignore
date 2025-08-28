@@ -1,0 +1,13 @@
+# Backend (Spring Boot / Java)
+backend/target/
+backend/.idea/
+backend/.vscode/
+
+# Frontend (React / Node.js)
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+
+# General
+*.iml
+.DS_Store
