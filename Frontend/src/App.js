@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedin, FaDownload } from "react-icons/fa6";
+import { FaGithub, FaLinkedin, FaDownload } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import Projects from "./components/Projects";
 import Experience from "./components/Experience";
