@@ -1,5 +1,5 @@
-import { useEffect, useState } from "react";
-import { FaJava, FaJsSquare, FaReact, FaHtml5, FaCss3Alt, FaDatabase, FaCode, FaProjectDiagram } from "react-icons/fa";
+import { FaJava, FaJs, FaReact, FaHtml5, FaCss3Alt, FaDatabase, FaCode, FaProjectDiagram } from "react-icons/fa6";
+
 import { SiSpringboot, SiOracle } from "react-icons/si";
 
 export default function Skills() {
