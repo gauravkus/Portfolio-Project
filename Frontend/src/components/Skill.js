@@ -1,4 +1,4 @@
-import { FaJava, FaJs, FaReact, FaHtml5, FaCss3Alt, FaDatabase, FaCode, FaProjectDiagram } from "react-icons/fa6";
+import { FaJava, FaJs, FaReact, FaHtml5, FaCss3Alt, FaDatabase, FaCode, FaProjectDiagram } from "react-icons/fa";
 
 import { SiSpringboot, SiOracle } from "react-icons/si";
 
