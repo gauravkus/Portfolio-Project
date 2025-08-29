@@ -1,9 +1,8 @@
-import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaDownload } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
 import Projects from "./components/Projects";
 import Experience from "./components/Experience";
 import Skills from "./components/Skill";
-import { FaDownload } from "react-icons/fa";
 import profilePic from "./asset/Gaurav.png";
 
 export default function App() {
